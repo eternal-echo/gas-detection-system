@@ -7,7 +7,7 @@
       "command": "aos",
       "args": [
         "make",
-        "gas-detection@nodemcu32s",
+        "gas@nodemcu32s",
         "-c",
         "config"
       ],
@@ -43,8 +43,8 @@
       "command": "aos",
       "args": [
         "monitor",
-        "",
-        "1500000"
+        "COM8",
+        "115200"
       ],
       "presentation": {
         "focus": true,

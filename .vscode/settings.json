@@ -3,5 +3,8 @@
     "haasStudio.hardware.board": "nodemcu32s",
     "haasStudio.appType": "python",
     "haasStudio.solutionName": "燃气检测系统",
-    "haasStudio.projectDir": "d:\\embeded\\project\\gas"
+    "haasStudio.projectDir": "d:\\embeded\\project\\gas",
+    "haasStudio.pythonAdvanced": "disable",
+    "haasStudio.comPort": "COM8",
+    "haasStudio.hardware.baudrate": 115200
 }

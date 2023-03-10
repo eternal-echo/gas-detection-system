@@ -1,0 +1,10 @@
+{
+  "mode": "本地更新",
+  "baudrate": "115200",
+  "comPort": "COM8                ",
+  "token": "dummy",
+  "device": "dummy",
+  "engine": "dummy",
+  "encode": "dummy",
+  "tokenList": []
+}
