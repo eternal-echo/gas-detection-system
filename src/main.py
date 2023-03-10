@@ -25,13 +25,13 @@ alarmOn = 0                # 记录报警状态
 iot_connected = False
 
 # 三元组信息
-productKey = "产品密钥"
-deviceName = "设备名称"
-deviceSecret = "设备密钥"
+productKey = "hcixT11yiyp"
+deviceName = "8Q91ofb1LJr2u3JLu92V"
+deviceSecret = "9d84632c385ab21bbe8e2bf0b756c44f"
 
 # Wi-Fi SSID和Password设置
-wifiSsid = "请填写您的路由器名称"
-wifiPassword = "请填写您的路由器密码"
+wifiSsid = "honor"
+wifiPassword = "33445566"
 
 wlan = None
 
